@@ -1,0 +1,8 @@
+
+public class Autenticador {
+	
+	public Usuário logar(String login, String senha) {
+		
+	}
+	
+}

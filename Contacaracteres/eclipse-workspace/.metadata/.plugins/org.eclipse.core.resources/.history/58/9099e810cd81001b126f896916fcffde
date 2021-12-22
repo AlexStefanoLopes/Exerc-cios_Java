@@ -1,0 +1,8 @@
+
+public class Autenticador {
+
+	public Autenticador() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
